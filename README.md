@@ -108,4 +108,10 @@ The E2E tests verify the full user journey through the application, ensuring all
 
 ## Demo Video
 
-[Link to walkthrough video to be added here]
+[https://app.screencastify.com/v3/watch/kRDYMZIDspYV8WowOjSG]
+
+## Credits
+- Online learning assistant
+- Copilot
+- Claude
+- A lot of google searches
